@@ -1,4 +1,4 @@
-<html>
+
 Welcome
 <ul>  
   <li><a href="ipns://k51qzi5uqu5dhcr5v6elmtodn8kvjannwpflat0mhy9995pe2fw8jzarw5yo77">ipfs.nogues.ca</a></li>
@@ -17,4 +17,4 @@ dnslink=/ipfs/QmQrXZ4iXdEKQMiQT6GRg2Wy3vxb9exR25sYdaqoHwWWuR
 
 set PATH=%PATH%;C:\Hugo\bin
 </pre>
-</html>
+
